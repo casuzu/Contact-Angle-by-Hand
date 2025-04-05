@@ -1,7 +1,7 @@
-# Contact_Angle_by_Hand: An Image Analysis Tool 
+# PixelScope: Image Edge Detection and Calibration Tool: 
 **Analyze fluid interfaces with precision and simplicity.**
  
-## Overview: This software helps in analyzing images of fluid interfaces in low-gravity conditions.
+## Overview: This software generates canny-edged images and providing pixel-to-real-world measurement conversions via linear regression and was used in analysis of images of fluid interfaces in low-gravity conditions.
 
 ## Key Features
 -Perform image analysis using a simple UI.
@@ -45,4 +45,9 @@ py -m pip install -r requirements.txt
 
 4. Run the application:
 python main.py
+
+
+
+
+
 
